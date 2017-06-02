@@ -1,0 +1,2 @@
+# robots
+chặn google index
